@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/sdp04/AndroidStudioProjects/SDPProject3/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="22.0.1"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/home/sdp04/AndroidStudioProjects/SDPProject3/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.4.0_c64b8f64eaf419687788ac9271b7e92331b75519.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sdp04/AndroidStudioProjects/SDPProject3/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="22.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/sdp04/AndroidStudioProjects/SDPProject3/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_b392aadd757154a7005f956befb54d59296b2749.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sdp04/AndroidStudioProjects/SDPProject3/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="22.0.1"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/home/sdp04/AndroidStudioProjects/SDPProject3/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.4.0_4264655dcc966a26addf88457c21d98a4942b4db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sdp04/AndroidStudioProjects/SDPProject3/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0-alpha3/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="22.0.1"
+        sha1="650cf8686cd625acfbdd43f8ab33f6f2f057605f">
+        <dex dex="/home/sdp04/AndroidStudioProjects/SDPProject3/app/build/intermediates/pre-dexed/debug/com.android.support.constraint-constraint-layout-1.0.0-alpha3_9e42788fbee04fdd264b114b138fde7e79297e8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sdp04/AndroidStudioProjects/SDPProject3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="22.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/sdp04/AndroidStudioProjects/SDPProject3/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_b7efa7aa8550cfa978a71fc66c7e51e9110d8136.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sdp04/AndroidStudioProjects/SDPProject3/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="22.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/sdp04/AndroidStudioProjects/SDPProject3/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_5b4830055425e50f3c869134ce42026e415fcb33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sdp04/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="22.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/sdp04/AndroidStudioProjects/SDPProject3/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_fc6371bc440b088e916123d9a90292138ea0da84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sdp04/AndroidStudioProjects/SDPProject3/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="22.0.1"
+        sha1="9e67706392854dc434c244202934be4b4b4062d8">
+        <dex dex="/home/sdp04/AndroidStudioProjects/SDPProject3/app/build/intermediates/pre-dexed/debug/instant-run_404168701c59a6dd5855fee9e301903c5d03d48c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sdp04/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-alpha3/constraint-layout-solver-1.0.0-alpha3.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="22.0.1"
+        sha1="977d57354ef7ef4faa604b802d4907728e0db889">
+        <dex dex="/home/sdp04/AndroidStudioProjects/SDPProject3/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.0-alpha3_9f37df262324f33e62e2707d3810a90e27c8ac96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sdp04/AndroidStudioProjects/SDPProject3/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="22.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/sdp04/AndroidStudioProjects/SDPProject3/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_34c133bb407633c3808b22f24e09e03fa2594980.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sdp04/AndroidStudioProjects/SDPProject3/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="22.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/sdp04/AndroidStudioProjects/SDPProject3/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_0859166bfd802ef83475cca7475b50941421d6a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sdp04/AndroidStudioProjects/SDPProject3/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="22.0.1"
+        sha1="1c9ee2a08dfd2ad2135a2c478117eea418bd7ff4">
+        <dex dex="/home/sdp04/AndroidStudioProjects/SDPProject3/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_c13743fdfe9b84dd1a4351be1a4917293c482ca9.jar" />
+    </item>
+
+</items>
